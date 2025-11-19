@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  cursor: default;
+  transition: all 0.2s ease;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+a * {
+  cursor: pointer;
+}/*# sourceMappingURL=index.css.map */

@@ -4,7 +4,7 @@
 
 #### Description :
 
-Mon Adresse Miel est un site vitrine conçu pour **faire connaître les produits et la boutique à Saint-Rémy-de-Provence**.
+Mon Adresse Miel est un site vitrine conçu pour **faire connaître les produits et la boutique de produits de la ruche à Saint-Rémy-de-Provence**.
 
 Cette entreprise souhaitait un site qui puisse **présenter ses produits**. 
 
